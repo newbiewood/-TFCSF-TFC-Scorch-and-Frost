@@ -1,0 +1,8 @@
+{
+  "event.tfc_scorch_and_frost.heatwave.onset": "异常的热流正在涌入，远处的地平线在热浪中开始微微扭曲。",
+  "event.tfc_scorch_and_frost.heatwave.peak": "极端热浪已达峰值！世界仿佛变成了巨大的烤箱",
+  "event.tfc_scorch_and_frost.heatwave.recovery": "热浪正在退去，大气压逐渐恢复正常。",
+  "event.tfc_scorch_and_frost.coldwave.onset": "一股强冷空气正在以惊人的速度接近，气温即将断崖式下跌",
+  "event.tfc_scorch_and_frost.coldwave.peak": "寒潮彻底爆发",
+  "event.tfc_scorch_and_frost.coldwave.recovery": "寒潮锋面已经过境"
+}

@@ -1,0 +1,8 @@
+{
+  "event.tfc_scorch_and_frost.heatwave.onset": "Abnormal heat currents are surging in, the distant horizon begins to shimmer in the heat haze.",
+  "event.tfc_scorch_and_frost.heatwave.peak": "Extreme heat wave has peaked! The world has become a giant oven.",
+  "event.tfc_scorch_and_frost.heatwave.recovery": "The heat wave is receding, atmospheric pressure is gradually returning to normal.",
+  "event.tfc_scorch_and_frost.coldwave.onset": "A powerful cold front is approaching at alarming speed, temperatures are about to plummet.",
+  "event.tfc_scorch_and_frost.coldwave.peak": "The cold wave has fully erupted!",
+  "event.tfc_scorch_and_frost.coldwave.recovery": "The cold front has passed through."
+}

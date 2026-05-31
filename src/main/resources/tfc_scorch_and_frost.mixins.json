@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.newbiewood.nbw.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "refmap": "tfc_scorch_and_frost.refmap.json",
+    "target": "@env(DEFAULT)",
+    "client": [],
+    "mixins": [
+        "WeatherClimateMixin"
+    ]
+}
