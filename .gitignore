@@ -2,7 +2,6 @@
 .gradle
 build/
 参考/
-libs/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/**/build/
 
